@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://mister-hope.com",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "src\.vuepress\public\logo1.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -63,10 +63,10 @@ export default hopeTheme({
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://imgur.com/a/wggPxV6",
-        link: "https://theme-hope.vuejs.press",
-      },
+      // VuePressThemeHope: {
+      //   icon: "https://imgur.com/a/wggPxV6",
+      //   link: "https://theme-hope.vuejs.press",
+      // },
     },
   },
 
