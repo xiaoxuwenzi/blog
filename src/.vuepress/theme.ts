@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://mister-hope.com",
   },
 
-  logo: "src\.vuepress\public\logo1.svg",
+  logo: "https://xiaoxuwenzi.github.io/blog/src/.vuepress/public/logo1.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
