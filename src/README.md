@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: 主页
-heroImage: https://xiaoxuwenzi.github.io/blog/src/.vuepress/public/logo1.svg
+heroImage: /public/logo1.svg
 heroText: 随心
 heroFullScreen: true
 # tagline: 你可以在这里放置你的口号与标语 
